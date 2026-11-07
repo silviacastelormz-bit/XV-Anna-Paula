@@ -1401,7 +1401,7 @@ body {
     letter-spacing: 5px;
     color: #f3d9ad;
     text-shadow: 0 1px 10px #321d19;
-    margin: 0 0 13px;
+    margin: 20px 0 13px;
 }
 
 .crown-ornament {
@@ -2481,9 +2481,9 @@ footer {
         margin: -20px 0;
     }
     .section-join__flowers {
-        top: -52px;
-        left: 1.5%;
-        width: 97%;
+        top: -75px;
+        left: -15.5%;
+        width: 130%;
     }
     .section .decoration-cutout--ramo-rosas {
         width: 88px;
